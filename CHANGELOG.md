@@ -16,6 +16,8 @@ All notable, unreleased changes to this project will be documented in this file.
 
 ### Other changes
 - Fix failing `checkoutCustomerAttach` mutation - #9401 by @IKarbowiak
+- Introduce custom prices - #9393 by @IKarbowiak
+  - Add `HANDLE_CHECKOUTS` permission (only for apps)
 
 
 # 3.1.7
